@@ -1,4 +1,4 @@
-# MSP Enrollment
+# Eco Reports Enrollment
 
 There are several use cases for MSP enrollment. This use case is for AWS MSPs with administrative access to their MPA.
 
